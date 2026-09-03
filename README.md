@@ -1,3 +1,7 @@
+### ALUNOS
+
+`Joao Lucas Dantas` e `Joao Victor Azevedo`.
+
 ## Diagnóstico
 
 Olhando o método `cadastrar` original, dá pra ver que ele faz coisa demais. Em umas 15 linhas
